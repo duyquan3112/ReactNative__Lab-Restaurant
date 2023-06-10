@@ -1,0 +1,1 @@
+export const baseUrl = 'https://quannd.duyquan3112.repl.co/';
